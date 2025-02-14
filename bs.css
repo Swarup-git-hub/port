@@ -468,7 +468,7 @@ label {
     .profile-photo img {
         margin: 10px;
         border-radius: 50%;
-        width: 60px;
+        width: 50px;
         /* Adjust size for mobile */
         height: 60px;
         /* Adjust size for mobile */
@@ -519,7 +519,7 @@ label {
         width: 100%;
         /* Make image responsive */
         height: auto;
-        border-radius: 10px;
+        border-radius: 50px;
         /* Adjust radius for mobile */
         position: relative;
         border: 1px solid #ffffff;
